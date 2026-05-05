@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 80" width="340" height="80">
+  <!-- Diamond/rhombus icon -->
+  <g transform="translate(10, 10)">
+    <!-- Main diamond shape (rounded) -->
+    <path d="M30 2 L58 30 L30 58 L2 30 Z" fill="#2D3AC4" rx="4"/>
+    
+    <!-- Inner sparkle/star highlight -->
+    <path d="M30 12 L33 27 L48 30 L33 33 L30 48 L27 33 L12 30 L27 27 Z" fill="white" opacity="0.9"/>
+  </g>
+
+  <!-- "CareBot" text -->
+  <text
+    x="80"
+    y="52"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="36"
+    font-weight="700"
+    fill="#1E2A8E"
+    letter-spacing="-0.5"
+  >CareBot</text>
+
+  <!-- Small registered trademark circle -->
+  <circle cx="71" cy="20" r="5" fill="none" stroke="#2D3AC4" stroke-width="1.2"/>
+  <text x="71" y="23.5" font-family="Arial" font-size="6" fill="#2D3AC4" text-anchor="middle">®</text>
+</svg>
